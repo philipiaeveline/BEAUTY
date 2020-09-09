@@ -1,0 +1,8 @@
+nav ul li{
+    display: inline;
+    justify-content: space-between;
+    color: blue;
+}
+body{
+    background-color: brown;
+}

@@ -1,0 +1,28 @@
+nav{
+    background-color:green;
+    position:fixed;
+    width:100%;
+    top:0;
+    left:0;
+    display: flex;
+    padding-bottom: 0px;
+    justify-content: center;
+  }
+
+
+body{
+    background-color: cornsilk;
+    text-align: center;
+    margin:80px
+    font-siz:34%;
+}
+    nav>ul>li{
+        display: inline;
+        margin: 30px;
+        list-style-type: none;
+    }
+    #footer{
+        background-color: darkgreen;
+        text-align-last: center;
+        padding:0%;
+    }
