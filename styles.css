@@ -1,5 +1,5 @@
 nav{
-    background-color:green;
+    background-color:rgb(128, 0, 79);
     position:fixed;
     width:100%;
     top:0;
@@ -22,7 +22,7 @@ body{
         list-style-type: none;
     }
     #footer{
-        background-color: darkgreen;
+        background-color: rgb(128, 0, 79);
         text-align-last: center;
         padding:0%;
     }
